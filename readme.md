@@ -69,7 +69,7 @@ The complete QCK framework is documented in 46 sequentially ordered papers. Belo
 * [**18: AI-Smart DATA: Fractal Data Pruning**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/18-ai-smart-data-fractal-data-pruning.md)
 * [**19: Geometric Auditing of AI Systems**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/19-geometric-auditing-of-ai-systems.md)
 
-📂 **[Browse the Complete Archive (Papers 01 - 46)](github_papers/)**
+📂 **[Browse the Complete Archive (Papers 01 - 46)](https://github.com/QCK-Framework/QCK_Archiv/tree/main)**
 
 ---
 
