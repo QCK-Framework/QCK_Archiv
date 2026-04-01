@@ -57,7 +57,7 @@ When an AI system discovers a true, logical, or physically valid solution, its s
 The complete QCK framework is documented in 46 sequentially ordered papers. Below are the key highlights establishing the core mechanics of the theory.
 
 ### 🌟 Foundational Highlights
-* [**01: The QCK Framework - A Detailed Conceptual Elaboration**](github_papers/01-das-qck-framework-eine-ausfuehrliche-konzeptionelle-und-axiomatische-ausarbeitung.md)
+* [**02: The QCK Framework - A Detailed Conceptual Elaboration**](github_papers/02-The-QCK-Framework-CD-NFD-CBR.md)
 * [**08: Phase Space as Reality - Derivation of the Universe**](github_papers/08-der-phasenraum-als-realitaet-eine-herleitung-des-universums-aus-der-dynamik-des-chaos.md)
 * [**23: Solution to Dirac's Large Number Hypothesis (12^37)**](github_papers/23-das-getriebe-der-ewigkeit-eine-geometrische-heuristik-zur-relation-der-diracschen-grosszahlen-durch-fraktale-4d-skalierung.md)
 * [**39: The Topological Vacuum Tension in the QCK Framework**](github_papers/39-die-topologische-vakuum-spannung-im-qck-framework-ein-topologischer-erklaerungsansatz-fuer-dunkle-materie-das-hierarchieproblem-und-das-invarianz-prinzip.md)
