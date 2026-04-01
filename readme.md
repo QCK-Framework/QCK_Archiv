@@ -53,20 +53,21 @@ When an AI system discovers a true, logical, or physically valid solution, its s
 ---
 
 ## 4. The Archive (Index)
+
 The complete QCK framework is documented in 46 sequentially ordered papers. Below are the key highlights establishing the core mechanics of the theory.
 
 ### 🌟 Foundational Highlights
-* [**01: The QCK Framework - A Detailed Conceptual Elaboration**]([github_papers/08-der-phasenraum-als-realitaet.md](https://github.com/QCK-Framework/QCK_Archiv/blob/main/02-The-QCK-Framework-CD-NFD-CBR.md))
-* [**08: Phase Space as Reality - Derivation of the Universe**](github_papers/08-der-phasenraum-als-realitaet.md)
-* [**23: Solution to Dirac's Large Number Hypothesis (12^37)**](github_papers/23-loesung-der-diracschen-grosszahl-hypothese-das-getriebe-der-ewigkeit.md)
-* [**39: The Topological Vacuum Tension in the QCK Framework**](github_papers/39-die-topologische-vakuum-spannung-im-qck-framework.md)
-* [**45: The Topological Resolution of the Hubble Tension**](github_papers/45-die-topologische-aufloesung-der-hubble-spannung.md)
-* [**46: Geometric Exclusion of Gravitons (ALPHA-g)**](github_papers/46-geometrischer-ausschluss-von-gravitonen.md)
+* [**01: The QCK Framework - A Detailed Conceptual Elaboration**](github_papers/01-das-qck-framework-eine-ausfuehrliche-konzeptionelle-und-axiomatische-ausarbeitung.md)
+* [**08: Phase Space as Reality - Derivation of the Universe**](github_papers/08-der-phasenraum-als-realitaet-eine-herleitung-des-universums-aus-der-dynamik-des-chaos.md)
+* [**23: Solution to Dirac's Large Number Hypothesis (12^37)**](github_papers/23-das-getriebe-der-ewigkeit-eine-geometrische-heuristik-zur-relation-der-diracschen-grosszahlen-durch-fraktale-4d-skalierung.md)
+* [**39: The Topological Vacuum Tension in the QCK Framework**](github_papers/39-die-topologische-vakuum-spannung-im-qck-framework-ein-topologischer-erklaerungsansatz-fuer-dunkle-materie-das-hierarchieproblem-und-das-invarianz-prinzip.md)
+* [**45: The Topological Resolution of the Hubble Tension**](github_papers/45-die-topologische-aufloesung-der-hubble-spannung-optische-impedanz-und-der-geometrische-schlupf-im-sub-planckschen-phasenraum-k12.md)
+* [**46: Geometric Exclusion of Gravitons (ALPHA-g)**](github_papers/46-geometrischer-ausschluss-von-gravitonen-alpha-g-annihilation-und-der-topologische-schatten.md)
 
 ### 🤖 AI & Informatics Highlights
-* [**15: LIGO AI ZOO Decrypted (Fractal Analysis)**](github_papers/15-ligo-ai-zoo-entschluesselt.md)
-* [**17: AI-Smart DATA: Fractal Data Pruning**](github_papers/17-ai-smart-data-fractal-data-pruning.md)
-* [**18: Geometric Auditing of AI Systems**](github_papers/18-geometrische-auditierung-von-ki-systemen.md)
+* [**15: LIGO AI ZOO Decrypted (Fractal Analysis)**](github_papers/15-ligo-ai-zoo-entschluesselt-die-qck-fraktalanalyse-als-verifizierungswerkzeug-fuer-ki-generierte-gravitationswellen-physik.md)
+* [**17: AI-Smart DATA: Fractal Data Pruning**](github_papers/17-ai-smart-data-fractal-data-pruning-steigerung-der-modelleffizienz-durch-geometrische-daten-selektion.md)
+* [**18: Geometric Auditing of AI Systems**](github_papers/18-geometrische-auditierung-von-ki-systemen-von-brute-force-ray-tracing-zur-fraktalen-signatur-analyse-ein-vergleich-der-recheneffizienz-bei-der-halluzinations-erkennung.md)
 
 📂 **[Browse the Complete Archive (Papers 01 - 46)](github_papers/)**
 
