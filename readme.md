@@ -58,16 +58,16 @@ The complete QCK framework is documented in 46 sequentially ordered papers. Belo
 
 ### 🌟 Foundational Highlights
 * [**02: The QCK Framework - A Detailed Conceptual Elaboration**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/02-The-QCK-Framework-CD-NFD-CBR.md)
-* [**08: Phase Space as Reality - Derivation of the Universe**](github_papers/08-der-phasenraum-als-realitaet-eine-herleitung-des-universums-aus-der-dynamik-des-chaos.md)
-* [**23: Solution to Dirac's Large Number Hypothesis (12^37)**](github_papers/23-das-getriebe-der-ewigkeit-eine-geometrische-heuristik-zur-relation-der-diracschen-grosszahlen-durch-fraktale-4d-skalierung.md)
-* [**39: The Topological Vacuum Tension in the QCK Framework**](github_papers/39-die-topologische-vakuum-spannung-im-qck-framework-ein-topologischer-erklaerungsansatz-fuer-dunkle-materie-das-hierarchieproblem-und-das-invarianz-prinzip.md)
-* [**45: The Topological Resolution of the Hubble Tension**](github_papers/45-die-topologische-aufloesung-der-hubble-spannung-optische-impedanz-und-der-geometrische-schlupf-im-sub-planckschen-phasenraum-k12.md)
-* [**46: Geometric Exclusion of Gravitons (ALPHA-g)**](github_papers/46-geometrischer-ausschluss-von-gravitonen-alpha-g-annihilation-und-der-topologische-schatten.md)
+* [**09: Phase Space as Reality - Derivation of the Universe**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/09-phase-space-as-reality-a-derivation-of-the-universe-from-the-dynamics-of-chaos.md)
+* [**23: Solution to Dirac's Large Number Hypothesis (12^37)**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/23-solution-to-diracs-large-number-hypothesis-the-gearwork-of-eternity.md)
+* [**39: The Topological Vacuum Tension in the QCK Framework**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/39-the-topological-vacuum-tension-in-the-qck-framework.md)
+* [**45: The Topological Resolution of the Hubble Tension**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/45-the-topological-resolution-of-the-hubble-tension.md)
+* [**46: Geometric Exclusion of Gravitons (ALPHA-g)**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/46-geometric-exclusion-of-gravitons.md)
 
 ### 🤖 AI & Informatics Highlights
-* [**15: LIGO AI ZOO Decrypted (Fractal Analysis)**](github_papers/15-ligo-ai-zoo-entschluesselt-die-qck-fraktalanalyse-als-verifizierungswerkzeug-fuer-ki-generierte-gravitationswellen-physik.md)
-* [**17: AI-Smart DATA: Fractal Data Pruning**](github_papers/17-ai-smart-data-fractal-data-pruning-steigerung-der-modelleffizienz-durch-geometrische-daten-selektion.md)
-* [**18: Geometric Auditing of AI Systems**](github_papers/18-geometrische-auditierung-von-ki-systemen-von-brute-force-ray-tracing-zur-fraktalen-signatur-analyse-ein-vergleich-der-recheneffizienz-bei-der-halluzinations-erkennung.md)
+* [**16: LIGO AI ZOO Decrypted (Fractal Analysis)**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/16-ligo-ai-zoo-decrypted.md)
+* [**18: AI-Smart DATA: Fractal Data Pruning**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/18-ai-smart-data-fractal-data-pruning.md)
+* [**19: Geometric Auditing of AI Systems**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/19-geometric-auditing-of-ai-systems.md)
 
 📂 **[Browse the Complete Archive (Papers 01 - 46)](github_papers/)**
 
