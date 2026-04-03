@@ -1,7 +1,7 @@
 # The QCK Framework
 **An Axiomatic, Parameter-Free Ontology of Physical Reality and Algorithmic Cognition**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19368589.svg)](https://doi.org/10.5281/zenodo.19368589)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19393400.svg)](https://doi.org/10.5281/zenodo.19393400)
 
 
 ---
