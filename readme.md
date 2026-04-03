@@ -71,6 +71,8 @@ The complete QCK framework is documented in 48 sequentially ordered papers. Belo
 ### 🧮 Math and Mass
 * [**43: The Topological Asymptote of Arithmetic**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/43-the-topological-asymptote-of-arithmetic.md)
 * [**44: The Geometry of Inertia and the Bandwidth Limit of the Vacuum**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/44-the-geometry-of-inertia-and-the-bandwidth-limit-of-the-vacuum.md)
+* [**45: The Physical Causality of the Riemann Hypothesis**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/45-the-topological-resolution-of-the-hubble-tension.md)
+* [**46: The Physical Causality of the Riemann Hypothesis**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/46-geometric-exclusion-of-gravitons.md)
 * [**47: The Physical Causality of the Riemann Hypothesis**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/47-The-Physical-Causality-of-the-Riemann-Hypothesis.md)
 
 ### 🤖 AI & Informatics Highlights
