@@ -64,6 +64,11 @@ The complete QCK framework is documented in 46 sequentially ordered papers. Belo
 * [**45: The Topological Resolution of the Hubble Tension**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/45-the-topological-resolution-of-the-hubble-tension.md)
 * [**46: Geometric Exclusion of Gravitons (ALPHA-g)**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/46-geometric-exclusion-of-gravitons.md)
 
+### 🧮 Math and Mass
+* [**43: The Topological Asymptote of Arithmetic**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/43-the-topological-asymptote-of-arithmetic.md)
+* [**44: The Geometry of Inertia and the Bandwidth Limit of the Vacuum**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/44-the-geometry-of-inertia-and-the-bandwidth-limit-of-the-vacuum.md)
+* [**47: The Physical Causality of the Riemann Hypothesis**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/47-The-Physical-Causality-of-the-Riemann-Hypothesis)
+
 ### 🤖 AI & Informatics Highlights
 * [**16: LIGO AI ZOO Decrypted (Fractal Analysis)**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/16-ligo-ai-zoo-decrypted.md)
 * [**18: AI-Smart DATA: Fractal Data Pruning**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/18-ai-smart-data-fractal-data-pruning.md)
