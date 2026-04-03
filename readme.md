@@ -54,7 +54,7 @@ When an AI system discovers a true, logical, or physically valid solution, its s
 
 ## 4. The Archive (Index)
 
-The complete QCK framework is documented in 47 sequentially ordered papers. Below are the key highlights establishing the core mechanics of the theory.
+The complete QCK framework is documented in 48 sequentially ordered papers. Below are the key highlights establishing the core mechanics of the theory.
 
 ### 🌟 Foundational Highlights
 * [**02: The QCK Framework - A Detailed Conceptual Elaboration**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/02-The-QCK-Framework-CD-NFD-CBR.md)
@@ -74,7 +74,7 @@ The complete QCK framework is documented in 47 sequentially ordered papers. Belo
 * [**18: AI-Smart DATA: Fractal Data Pruning**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/18-ai-smart-data-fractal-data-pruning.md)
 * [**19: Geometric Auditing of AI Systems**](https://github.com/QCK-Framework/QCK_Archiv/blob/main/19-geometric-auditing-of-ai-systems.md)
 
-📂 **[Browse the Complete Archive (Papers 01 - 46)](https://github.com/QCK-Framework/QCK_Archiv/tree/main)**
+📂 **[Browse the Complete Archive (Papers 01 - 48)](https://github.com/QCK-Framework/QCK_Archiv/tree/main)**
 
 ---
 
