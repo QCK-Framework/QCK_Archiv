@@ -3,7 +3,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19393400.svg)](https://doi.org/10.5281/zenodo.19393400)
 
+The QCK Framework: A Process-Ontological Foundation
 
+Welcome to the official repository of the QCK Framework. This archive encompasses a comprehensive compilation of 48 chronologically ordered research papers that establish a parameter-free, deterministic foundation of physics. Bridging the gap between quantum mechanics, astrophysics, and algorithmic cognition, the framework systematically resolves persistent anomalies of the standard model—such as the Hubble tension, dark matter, and quantum fuzziness—through strict topological mechanics.
+
+Before exploring the individual publications, the methodological apparatus, and the mathematical derivations, the following section outlines the fundamental philosophical context that enables this paradigm shift.
 ---
 
 ## 1. Philosophical Context: The Return of Geometry
