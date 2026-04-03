@@ -3,7 +3,7 @@
 # The Physical Causality of the Riemann Hypothesis
 **Author:** B. Wyneken | **Project:** QCK Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19258985.svg)
+[![DOI] (https://zenodo.org/badge/DOI/10.5281/zenodo.19258985.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.19258985.svg)
 
 > **Download the full paper (PDF) and cite this work via Zenodo:**
 > [https://doi.org/10.5281/zenodo.19258985](https://doi.org/10.5281/zenodo.19258985)
