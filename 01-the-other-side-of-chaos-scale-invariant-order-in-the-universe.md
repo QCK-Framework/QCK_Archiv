@@ -1,7 +1,7 @@
 # The Other Side of Chaos: Scale-Invariant Order in the Universe
 **Author:** B. Wyneken | **Project:** QCK Framework
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16966300.svg)](https://doi.org/10.5281/zenodo.16966300)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19368589.svg)(https://doi.org/10.5281/zenodo.16966300)
 
 > **Download the full paper (PDF) and cite this work via Zenodo:**
 > [https://doi.org/10.5281/zenodo.16966300](https://doi.org/10.5281/zenodo.16966300)
